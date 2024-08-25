@@ -1,5 +1,9 @@
-## Hola, soy Milton! 👋
+## Hi, I'm Milton! 👋
 
+You can find me:
+
+- [Twitter](https://x.com/mfrok24)
+- [Linkedin](https://www.linkedin.com/in/miltonfruiz/)
 <!--
 **miltonfruiz/miltonfruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
