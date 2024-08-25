@@ -4,6 +4,8 @@ You can find me:
 
 - [Twitter](https://x.com/mfrok24)
 - [Linkedin](https://www.linkedin.com/in/miltonfruiz/)
+
+Systems Engineering / Programming Technician student, capable of developing responsive web applications using HTML5, CSS3, Javascript, Vue, Bootstrap, with the MERN Stack. Additionally, I am currently studying a Cybersecurity Analyst career.
 <!--
 **miltonfruiz/miltonfruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
