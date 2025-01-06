@@ -54,8 +54,8 @@ Con experiencia en la creación de aplicaciones robustas y dinámicas. Certifica
 
 ---
 
-## ✍️ **Frase de Inspiración:**
-*"Un desarrollador es aquel que resuelve problemas que no sabía que tenía de maneras que no entiende."*  
+## ✍️ **Frase de Inspiración: Josue 1:9 **
+*"Se fuerte y valiente. No tengas miedo ni te desanimes, porque yo estaré contigo dondequiera que vayas. 💪"*  
 
 ---
 
