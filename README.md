@@ -45,6 +45,7 @@ Con experiencia en la creación de aplicaciones robustas y dinámicas. Certifica
   <img src="https://github-readme-stats.vercel.app/api?username=miltonfruiz&theme=swift&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats"/> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miltonfruiz&theme=swift&hide_border=false" height="150" alt="GitHub Streak Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltonfruiz&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Languages"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=miltonfruiz&limit=5&theme=swift&combine_all_yearly_contributions=true" height="150" alt="GitHub Contributor Stats"/>
 </div>
 
 ---
@@ -59,11 +60,4 @@ Con experiencia en la creación de aplicaciones robustas y dinámicas. Certifica
 
 ---
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=miltonfruiz&limit=5&theme=swift&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=miltonfruiz&icon=7&color=0)](https://visitcount.itsvg.in)
