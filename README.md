@@ -1,5 +1,5 @@
 
-# 💫 Hola, soy Milton!
+# Hola, soy Milton! 👋
 
 ### **Desarrollador Web MERN**  
 Con experiencia en la creación de aplicaciones robustas y dinámicas. Certificado en ciberseguridad, especializado en implementar buenas prácticas para garantizar la seguridad y escalabilidad en el desarrollo de software.
