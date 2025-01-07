@@ -37,18 +37,6 @@ Con experiencia en la creación de aplicaciones robustas y dinámicas. Certifica
 
 ---
 
-### **Bases de Datos**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
-
-### **DevOps y Herramientas**
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) 
-
----
 
 ## 📊 **Estadísticas de GitHub:**
 <div align="center">
@@ -65,7 +53,7 @@ Con experiencia en la creación de aplicaciones robustas y dinámicas. Certifica
 
 ---
 
-## ✍️ ** Josue 1:9 **
+## ✍️ **Josue 1:9**
 *"Se fuerte y valiente. No tengas miedo ni te desanimes, porque yo estaré contigo dondequiera que vayas. 💪"*  
 
 ---
