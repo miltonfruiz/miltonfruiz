@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="banner.png" alt="Milton F. Ruiz Banner" width="100%" />
+  <img src="banner2025.png" alt="Milton F. Ruiz Banner" width="100%" />
 
-  ## **Milton F. Ruiz**
+  ## **Hola, soy Milton! 👋**
   ### Desarrollador Web MERN  
-  _Be strong and courageous!_
+  Desarrollador web MERN con experiencia en creación de aplicaciones y certificado en ciberseguridad, especializado en implementar buenas prácticas para garantizar la seguridad en el desarrollo._
 </div>
 
 ---
