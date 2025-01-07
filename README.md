@@ -55,7 +55,7 @@ Con experiencia en la creación de aplicaciones robustas y dinámicas. Certifica
 
 ---
 
-## ✍️ **Frase de Inspiración: Josue 1:9 **
+## ✍️ ** Josue 1:9 **
 *"Se fuerte y valiente. No tengas miedo ni te desanimes, porque yo estaré contigo dondequiera que vayas. 💪"*  
 
 ---
