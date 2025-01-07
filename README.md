@@ -7,11 +7,7 @@ Con experiencia en la creación de aplicaciones robustas y dinámicas. Certifica
 ---
 
 ## 🌐 **Redes Sociales:**
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Hz2CXqWd) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/miltonruizok) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/miltonfrdev/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miltonfruiz/) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mfrok24)
+[![My Skills](https://skillicons.dev/icons?i=discord,instagram,linkedin,x,facebook)](https://skillicons.dev)
 
 ---
 
