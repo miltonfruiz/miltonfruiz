@@ -15,17 +15,27 @@ Con experiencia en la creación de aplicaciones robustas y dinámicas. Certifica
 
 ---
 
-## 💻 **Tech Stack:**
-### **Lenguajes y Frameworks**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+## 💻 **Tech Stack**
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) 
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
+### **Lenguajes y Tecnologías**
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py)](https://skillicons.dev)
+
+### **Frameworks y Librerías**
+[![My Skills](https://skillicons.dev/icons?i=react,redux,vue,express,flask,bootstrap,tailwind)](https://skillicons.dev)
+
+### **Bases de Datos**
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)
+
+### **DevOps y Contenedores**
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,jenkins)](https://skillicons.dev)
+
+### **Servicios en la Nube**
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,netlify,vercel)](https://skillicons.dev)
+
+### **Herramientas de Desarrollo y Colaboración**
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,postman,figma)](https://skillicons.dev)
+
+---
 
 ### **Bases de Datos**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
