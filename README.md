@@ -1,7 +1,7 @@
 <div align="center">
   <img src="banner2025.png" alt="Milton F. Ruiz Banner" width="100%" />
 
-  ## **Hola, soy Milton. Bienvenido a mi Perfil! 👋**
+  ## **Bienvenido a mi Perfil! 👋**
   ### Desarrollador Web Full Stack MERN  
   Experiencia en creación de aplicaciones y certificado en ciberseguridad, especializado en implementar buenas prácticas para garantizar la seguridad en el desarrollo._
 </div>
