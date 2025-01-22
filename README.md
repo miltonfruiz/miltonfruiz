@@ -2,7 +2,7 @@
   <img src="banner2025.png" alt="Milton F. Ruiz Banner" width="100%" />
 
   # **Bienvenido! 👋**
-  ### Desarrollador Web Full Stack MERN  
+  ### Soy Desarrollador Web Full Stack MERN  
   Experiencia en creación de aplicaciones y certificado en ciberseguridad, especializado en implementar buenas prácticas para garantizar la seguridad en el desarrollo.
 </div>
 
