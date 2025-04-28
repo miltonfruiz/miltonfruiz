@@ -3,7 +3,7 @@
 
   # **Welcome! 👋**
   ### I'm MERN Full Stack Developer  
-  I have experience in creating applications and a cybersecurity certificate, specialized in implementing good practices to guarantee security in development.
+  I have experience in creating applications and a cybersecurity / SOC certificate, specialized in implementing good practices to guarantee security in development.
 </div>
 
 ---
