@@ -3,8 +3,9 @@
 
   # **Welcome! 👋**
   ### I'm MERN Full Stack Developer  
-  I have experience in creating applications and a cybersecurity / SOC certificate, specialized in implementing good practices to guarantee security in development.
-</div>
+  Full Stack Developer MERN with a background in cybersecurity and networks (CISCO CCNA3, SOC Analyst). Experience in real-world projects using JavaScript, React, Node.js, MongoDB, and Python.
+  Passionate about building secure and scalable applications, I'm currently expanding my knowledge in CCNP ENCOR and Linux. I seek opportunities to grow professionally and add value to dynamic teams.
+  </div>
 
 ---
 
