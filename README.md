@@ -2,9 +2,9 @@
   <img src="banner2025.png" alt="Milton F. Ruiz Banner" width="100%" />
 
   # **Welcome! 👋**
-  ### I'm MERN Full Stack Developer  
-  Full Stack Developer MERN with a background in cybersecurity and networks (CISCO CCNA3, SOC Analyst). Experience in real-world projects using JavaScript, React, Node.js, MongoDB, and Python.
-  Passionate about building secure and scalable applications, I'm currently expanding my knowledge in CCNP ENCOR and Linux. I seek opportunities to grow professionally and add value to dynamic teams.
+  ### I'm MERN Full Stack Developer / SOC ANALYST  
+  Full Stack Developer MERN with a background in cybersecurity and networks (CISCO CCNA3, SOC Analyst). Experience in projects using JavaScript, React, Node.js, MongoDB, and Python.
+  Passionate about building secure and scalable applications, I'm currently expanding my knowledge in CCNP ENCORE. I seek opportunities to grow professionally and add value to dynamic teams.
   </div>
 
 ---
