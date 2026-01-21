@@ -2,7 +2,7 @@
   <img src="banner2025.png" alt="Milton F. Ruiz Banner" width="100%" />
 
   # **Welcome! 👋**
-  ### Hi! I'm a Full Stack Developer MERN focused on Frontend React.
+  ### Hi, I'm a Full Stack Developer MERN focused on Frontend React.
   I build scalable web applications using JavaScript, React, Node.js, MongoDB, and Python.
   I also have a strong background in networking and security (Cisco CCNA, CCNP ENCOR), which helps me design secure and reliable systems.
   
